@@ -1,6 +1,6 @@
 {
-  "name": "todo-creator",
-  "homepage": "https://debi7.github.io/todo-creator/",
+  "name": "todocreator",
+  "homepage": "https://debi7.github.io/TodoCreator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
